@@ -1,0 +1,229 @@
+{
+        "pk": 27,
+        "draft_id": "94558ade-f374-403b-95de-5552b9663850",
+        "status": "OCR Completed",
+        "upload": "/media/receipt_draft/2024/February/5/94558ade-f374-403b-95de-5552b9663850/4.jpg",
+        "created": "2024-02-05T07:20:01",
+        "uploaded_by": 13201,
+        "ocr_data_json": {
+            "amounts": [
+                {
+                    "AMOUNT_PAID": {
+                        "geometry": {
+                            "Width": 0.04931299760937691,
+                            "Top": 0.31348109245300293,
+                            "Height": 0.009725604206323624,
+                            "Left": 0.8760026097297668
+                        },
+                        "confidence": 97.81251525878906,
+                        "value": {
+                            "detected_amount": "$267.50",
+                            "normalized_amount": {
+                                "amount": 267.5,
+                                "currency_code": "",
+                                "currency_symbol": "$"
+                            }
+                        }
+                    }
+                },
+                {
+                    "TOTAL": {
+                        "geometry": {
+                            "Width": 0.049175161868333817,
+                            "Top": 0.29848039150238037,
+                            "Height": 0.010024542920291424,
+                            "Left": 0.8760091662406921
+                        },
+                        "confidence": 99.9275894165039,
+                        "value": {
+                            "detected_amount": "$267.50",
+                            "normalized_amount": {
+                                "amount": 267.5,
+                                "currency_code": "",
+                                "currency_symbol": "$"
+                            }
+                        }
+                    }
+                },
+                {
+                    "TOTAL": {
+                        "geometry": {
+                            "Width": 0.08969167619943619,
+                            "Top": 0.7548736929893494,
+                            "Height": 0.01588495820760727,
+                            "Left": 0.5379253029823303
+                        },
+                        "confidence": 99.65778350830078,
+                        "value": {
+                            "detected_amount": "$ 267.50",
+                            "normalized_amount": {
+                                "amount": 267.5,
+                                "currency_code": "",
+                                "currency_symbol": "$"
+                            }
+                        }
+                    }
+                }
+            ],
+            "receipt_numbers": [
+                {
+                    "INVOICE_RECEIPT_ID": {
+                        "geometry": {
+                            "Width": 0.030418433248996735,
+                            "Top": 0.13134871423244476,
+                            "Height": 0.00841127336025238,
+                            "Left": 0.8020814061164856
+                        },
+                        "confidence": 99.88727569580078,
+                        "value": "9676"
+                    }
+                }
+            ],
+            "dates": [
+                {
+                    "INVOICE_RECEIPT_DATE": {
+                        "geometry": {
+                            "Width": 0.07474130392074585,
+                            "Top": 0.15591678023338318,
+                            "Height": 0.008893433958292007,
+                            "Left": 0.8029807806015015
+                        },
+                        "confidence": 99.76761627197266,
+                        "value": {
+                            "detected_date": "10 Nov 2021",
+                            "formatted_date": "10/11/2021"
+                        }
+                    }
+                }
+            ],
+            "others": [
+                {
+                    "ADDRESS": {
+                        "geometry": {
+                            "Width": 0.07924769073724747,
+                            "Top": 0.12026470899581909,
+                            "Height": 0.03742562234401703,
+                            "Left": 0.2483586221933365
+                        },
+                        "confidence": 96.56231689453125,
+                        "value": "LYDIA\nI ROAD\nAGH LODGE"
+                    }
+                },
+                {
+                    "NAME": {
+                        "geometry": {
+                            "Width": 0.03908747807145119,
+                            "Top": 0.12094533443450928,
+                            "Height": 0.008983755484223366,
+                            "Left": 0.24877873063087463
+                        },
+                        "confidence": 90.27377319335938,
+                        "value": "LYDIA"
+                    }
+                },
+                {
+                    "ADDRESS": {
+                        "geometry": {
+                            "Width": 0.15102268755435944,
+                            "Top": 0.5594384074211121,
+                            "Height": 0.04632522538304329,
+                            "Left": 0.43754035234451294
+                        },
+                        "confidence": 99.11872100830078,
+                        "value": "DERMATOLOGY & SURGERY CLINIC\n(ORCHARD)\n290 ORCHARD ROAD\n#17-01/02 PARAGON"
+                    }
+                },
+                {
+                    "NAME": {
+                        "geometry": {
+                            "Width": 0.15057440102100372,
+                            "Top": 0.5592623353004456,
+                            "Height": 0.015235835686326027,
+                            "Left": 0.43798962235450745
+                        },
+                        "confidence": 99.94513702392578,
+                        "value": "DERMATOLOGY & SURGERY CLINIC"
+                    }
+                },
+                {
+                    "ADDRESS": {
+                        "geometry": {
+                            "Width": 0.25477519631385803,
+                            "Top": 0.023354636505246162,
+                            "Height": 0.02894642762839794,
+                            "Left": 0.24987253546714783
+                        },
+                        "confidence": 91.716796875,
+                        "value": "i Surgery Clinic\n(Orchard) Pte Ltd\nad #17-01/02\nParagon, Singapore 238859"
+                    }
+                },
+                {
+                    "NAME": {
+                        "geometry": {
+                            "Width": 0.20561963319778442,
+                            "Top": 0.023045148700475693,
+                            "Height": 0.014951182529330254,
+                            "Left": 0.25084736943244934
+                        },
+                        "confidence": 77.0925521850586,
+                        "value": "i Surgery Clinic\n(Orchard) Pte Ltd"
+                    }
+                },
+                {
+                    "NAME": {
+                        "geometry": {
+                            "Width": 0.2600858509540558,
+                            "Top": 0.3747883141040802,
+                            "Height": 0.012346165254712105,
+                            "Left": 0.2539960443973541
+                        },
+                        "confidence": 86.49805450439453,
+                        "value": "Surgery Clinic (Orchard) Pte Ltd"
+                    }
+                },
+                {
+                    "VENDOR_NAME": {
+                        "geometry": {
+                            "Width": 0.2600858509540558,
+                            "Top": 0.3747883141040802,
+                            "Height": 0.012346165254712105,
+                            "Left": 0.2539960443973541
+                        },
+                        "confidence": 86.49805450439453,
+                        "value": "Surgery Clinic (Orchard) Pte Ltd"
+                    }
+                },
+                {
+                    "VENDOR_NAME": {
+                        "geometry": null,
+                        "confidence": 85.30520629882812,
+                        "value": ""
+                    }
+                },
+                {
+                    "VENDOR_NAME": {
+                        "geometry": {
+                            "Width": 0.15057440102100372,
+                            "Top": 0.5592623353004456,
+                            "Height": 0.015235835686326027,
+                            "Left": 0.43798962235450745
+                        },
+                        "confidence": 99.94513702392578,
+                        "value": "DERMATOLOGY & SURGERY CLINIC"
+                    }
+                },
+                {
+                    "VENDOR_NAME": {
+                        "geometry": {
+                            "Width": 0.20561963319778442,
+                            "Top": 0.023045148700475693,
+                            "Height": 0.014951182529330254,
+                            "Left": 0.25084736943244934
+                        },
+                        "confidence": 77.0925521850586,
+                        "value": "i Surgery Clinic\n(Orchard) Pte Ltd"
+                    }
+                }
+            ]
+        }
+    }

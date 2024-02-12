@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CFAC3D84-D0EF-4A21-963A-DDF29B5B45A9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD911222-94A4-45AC-9C02-AB9D3AF6F783"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageWithRect/ReceiptOCRPreviewViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "addOthers(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DD911222-94A4-45AC-9C02-AB9D3AF6F783 - bccd0f88c05a8b9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageWithRect.ReceiptOCRPreviewViewController.loadNormalizedRectangles(Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "ImageWithRect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankit/Documents/code/learn/ImageWithRect/ImageWithRect/ImageWithRect/ReceiptOCRPreviewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "1309">
+               </Location>
+               <Location
+                  uuid = "DD911222-94A4-45AC-9C02-AB9D3AF6F783 - bccd0f88c05a8b9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageWithRect.ReceiptOCRPreviewViewController.loadNormalizedRectangles(Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "ImageWithRect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ankit/Documents/code/learn/ImageWithRect/ImageWithRect/ImageWithRect/ReceiptOCRPreviewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "367">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "671E56CE-2133-4E73-9A27-3E860A47E228"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageWithRect/ReceiptOCRPreviewViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "rawKey"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

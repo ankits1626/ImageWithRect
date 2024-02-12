@@ -1,0 +1,117 @@
+
+    {
+        "pk": 60,
+        "draft_id": "ec63c041-3dbd-48df-9e22-21dfea477f7c",
+        "status": "OCR Completed",
+        "upload": "/media/receipt_draft/2024/February/8/ec63c041-3dbd-48df-9e22-21dfea477f7c/aXINpHTGkO.jpg",
+        "created": "2024-02-08T03:08:05",
+        "uploaded_by": 13201,
+        "ocr_data_json": {
+            "amounts": [
+                {
+                    "TOTAL": {
+                        "geometry": {
+                            "Width": 0.11144021898508072,
+                            "Top": 0.862733781337738,
+                            "Height": 0.03887946903705597,
+                            "Left": 0.8212720155715942
+                        },
+                        "confidence": 99.6945571899414,
+                        "value": {
+                            "detected_amount": "5502=",
+                            "normalized_amount": {
+                                "amount": 5502.0,
+                                "currency_code": "",
+                                "currency_symbol": "="
+                            }
+                        }
+                    }
+                }
+            ],
+            "receipt_numbers": [
+                {
+                    "INVOICE_RECEIPT_ID": {
+                        "geometry": {
+                            "Width": 0.08898527920246124,
+                            "Top": 0.08359480649232864,
+                            "Height": 0.05283614993095398,
+                            "Left": 0.6636322140693665
+                        },
+                        "confidence": 70.77139282226562,
+                        "value": "3946"
+                    }
+                }
+            ],
+            "dates": [
+                {
+                    "INVOICE_RECEIPT_DATE": {
+                        "geometry": {
+                            "Width": 0.15416419506072998,
+                            "Top": 0.08240543305873871,
+                            "Height": 0.046184390783309937,
+                            "Left": 0.8197267651557922
+                        },
+                        "confidence": 99.72531127929688,
+                        "value": {
+                            "detected_date": "20/08/2022",
+                            "formatted_date": "20/08/2022"
+                        }
+                    }
+                },
+                {
+                    "INVOICE_RECEIPT_DATE": {
+                        "geometry": {
+                            "Width": 0.08520849049091339,
+                            "Top": 0.8752976059913635,
+                            "Height": 0.027266649529337883,
+                            "Left": 0.6567781567573547
+                        },
+                        "confidence": 76.22450256347656,
+                        "value": {
+                            "detected_date": "13-02-2017",
+                            "formatted_date": "13-02-2017"
+                        }
+                    }
+                }
+            ],
+            "others": [
+                {
+                    "NAME": {
+                        "geometry": {
+                            "Width": 0.22875739634037018,
+                            "Top": 0.12521854043006897,
+                            "Height": 0.058473069220781326,
+                            "Left": 0.6744535565376282
+                        },
+                        "confidence": 98.88056182861328,
+                        "value": "Dinesh Thakur"
+                    }
+                },
+                {
+                    "NAME": {
+                        "geometry": {
+                            "Width": 0.4056917130947113,
+                            "Top": 0.05533333495259285,
+                            "Height": 0.10759053379297256,
+                            "Left": 0.034381236881017685
+                        },
+                        "confidence": 97.73797607421875,
+                        "value": "KUSHAL MEDICAL &\nGENERAL STORES"
+                    }
+                },
+                {
+                    "VENDOR_NAME": {
+                        "geometry": {
+                            "Width": 0.4056917130947113,
+                            "Top": 0.05533333495259285,
+                            "Height": 0.10759053379297256,
+                            "Left": 0.034381236881017685
+                        },
+                        "confidence": 97.73797607421875,
+                        "value": "KUSHAL MEDICAL &\nGENERAL STORES"
+                    }
+                }
+            ]
+        }
+    }
+
